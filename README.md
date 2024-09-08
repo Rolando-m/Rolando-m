@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 
-[Certificado del curso Az900](./Azure900.pdf)
+[Certificado del curso AZ900](./Certificado_AZ900.pdf)
+
 
 
 <!--

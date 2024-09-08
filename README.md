@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## AMAZON
+## AMAZON  
 
 [Course Certificate Architecting on AWS](./courses_development/Amazon/architecting_on_AWS.pdf)
 

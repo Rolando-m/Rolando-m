@@ -8,6 +8,17 @@
 
 [Course Certificate Cloud Practitioner](./courses_development/Amazon/AWS-Cloud_Practitioner.pdf)
 
+[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-aws-cloud-practico.pdf)
+
+[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-big-data.pdf)
+
+[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-db-aws.pdf)
+
+[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-networking-content.pdf)
+
+[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-storage-aws.pdf)
+
+
 
 ## MICROSOFT  <img src="https://spacecloudec.com/wp-content/uploads/2024/02/azure.png" alt="Azure" width="150"/>
 

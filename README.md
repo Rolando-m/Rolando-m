@@ -8,15 +8,15 @@
 
 [Course Certificate Cloud Practitioner](./courses_development/Amazon/AWS-Cloud_Practitioner.pdf)
 
-[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-aws-cloud-practico.pdf)
+[Course Certificate AWS Cloud](./courses_development/Amazon/diploma-aws-cloud-practico.pdf)
 
-[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-big-data.pdf)
+[Course Certificate Big Data](./courses_development/Amazon/diploma-big-data.pdf)
 
-[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-db-aws.pdf)
+[Course Certificate DB](./courses_development/Amazon/diploma-db-aws.pdf)
 
-[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-networking-content.pdf)
+[Course Certificate Networking Content](./courses_development/Amazon/diploma-networking-content.pdf)
 
-[Course Certificate Cloud Practitioner](./courses_development/Amazon/diploma-storage-aws.pdf)
+[Course Certificate Storage](./courses_development/Amazon/diploma-storage-aws.pdf)
 
 
 

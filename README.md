@@ -6,7 +6,7 @@ MICROSOFT
 
 [Certificado del curso DPZ900](./courses_development/microsoft/DP_900.pdf)
 
-[Certificado del curso Fundamentals architecture](./courses_development/Microsoft_azure_fundamentals_architecture_and_Services.pdf)
+[Certificado del curso Fundamentals architecture and Services](./courses_development/microsoft/Microsoft_azure_fundamentals_architecture_and_Services.pdf)
 
 [Certificado del curso Azure fundamentals cloud conceps](./courses_development/microsoft/Microsoft_azure_fundamentals_cloud_concepts.pdf)
 

@@ -9,7 +9,8 @@
 [Course Certificate Cloud Practitioner](./courses_development/Amazon/AWS-Cloud_Practitioner.pdf)
 
 
-## MICROSOFT
+## MICROSOFT  <img src="https://spacecloudec.com/wp-content/uploads/2024/02/azure.png" alt="Azure" width="150"/>
+
 
 [Course Certificate AZ900](./courses_development/microsoft/Certificado_AZ900.pdf)
 

@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-## AMAZON   ![AWS](https://www.asesora2.cl/servicios/img/cms/Partners/Amazon-Web-Services-AWS-Logo.png)
+## AMAZON  <img src="https://www.asesora2.cl/servicios/img/cms/Partners/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="150"/>
+
 
 
 [Course Certificate Architecting on AWS](./courses_development/Amazon/architecting_on_AWS.pdf)

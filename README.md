@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+[Certificado del curso Az900](./Azure900.pdf)
+
+
 <!--
 **Rolando-m/Rolando-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

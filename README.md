@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[Certificado del curso AZ900](./Certificado_AZ900.pdf)
+[Certificado del curso AZ900](./courses_development/Certificado_AZ900.pdf)
 
 
 

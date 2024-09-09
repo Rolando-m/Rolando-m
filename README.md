@@ -1,6 +1,6 @@
 ## Resume: Rolando Andrés Morcillo 
 
-#About me
+# 🔭 I’m currently working on ...
 
 Currently collaborating with multiple teams in PWC software development as a QA automation Engineer. I've a vast experience in Software life cycle, I'm constantly learning new tools and i'm mostly interested in Sysadmin and DevOps positions.
 
@@ -69,8 +69,10 @@ Various training for AWS, Azure and Google Cloud Services (as you can see detail
 
 
 
+- 📫How to reach me:
+**Email:** rolandomorcillo@gmail.com
 
-
+**Linkedin:** https://www.linkedin.com/in/rolandomorcillo/
 
 <!--
 **Rolando-m/Rolando-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

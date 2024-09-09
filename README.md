@@ -24,7 +24,7 @@ Some of the tools that I use on a daily basis:
 Specialties: Networks (VPS, LANs), Programming (Node.JS, PHP, PY, Vue JS). Databases: SQL Server, MySQL and MongoDB. Redis for caching.
 Advanced English. (Bilingual) 
 Knowledge of AGILE project management, SCRUM used on a daily basis in my current position.
-Various training for AWS, Azure and Google Cloud Services.
+Various training for AWS, Azure and Google Cloud Services (as you can see detailed below)
 
 ## AMAZON  <img src="https://www.asesora2.cl/servicios/img/cms/Partners/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="150"/>
 

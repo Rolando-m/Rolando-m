@@ -1,4 +1,24 @@
-## Hi there 👋
+## Rolando Andrés Morcillo Resume
+
+#About me
+Currently collaborating with multiple teams in PWC software development as a QA automation Engineer. I've a vast experience in Software life cycle, I'm constantly learning new tools and i'm mostly interested in Sysadmin and DevOps positions.
+Some of the tools that I use on a daily basis:
+Databricks for Data Science projects.
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="AWS" width="50"/>
+Azure Data Factory for Data silos integrations.
+<img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*IOGNRnuhopjfGQzl.png" alt="AWS" width="50"/>
+Azure SQL database for cloud services.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcugvlcpvyZzGN8vxgKxyfkG23EHtf6dLV9jzYxA6mter_tkJiDMCkPakPJLc6N2J_cfY&usqp=CAU" alt="AWS" width="50"/>
+Azure DevOps for tracking purposes.
+<img src="https://miro.medium.com/v2/resize:fit:800/1*8orwInnxqPRhrcKf9aOo9Q.png" alt="AWS" width="50"/>
+Confluence for documentation and task management.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLqE26lYDDtzXWlLtf-4a7pBEIEqcjkN3cwctWYjm38xIQuW3U0dmiFSYQ-OiEmEEPKMI&usqp=CAU" alt="AWS" width="50"/>
+VsCode as Editing tool.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeD8zT_fQg01sUVft4rGb1ap7nWJ9CDWHYlPgitsVhfRFUK-F5RSnJvBcxn1lgSPHsgHU&usqp=CAU" alt="AWS" width="50"/>
+Specialties: Networks (VPS, LANs), Programming (Node.JS, PHP, PY, Vue JS). Databases: SQL Server, MySQL and MongoDB. Redis for caching.
+Advanced English. (Bilingual) 
+Knowledge of AGILE project management, SCRUM used on a daily basis in my current position.
+Various training for AWS, Azure and Google Cloud Services.
 
 ## AMAZON  <img src="https://www.asesora2.cl/servicios/img/cms/Partners/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="150"/>
 

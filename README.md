@@ -26,7 +26,7 @@ Advanced English. (Bilingual)
 Knowledge of AGILE project management, SCRUM used on a daily basis in my current position.
 Various training for AWS, Azure and Google Cloud Services (as you can see detailed below)
 
-## 📝 courses taken and link to each certificate. 
+## 📝 Courses taken and the link to each certificate. 
 
 ## AMAZON  <img src="https://www.asesora2.cl/servicios/img/cms/Partners/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="150"/>
 

@@ -69,7 +69,7 @@ Various training for AWS, Azure and Google Cloud Services (as you can see detail
 
 
 
-- 📫How to reach me:
+##📫How to reach me:
 **Email:** rolandomorcillo@gmail.com
 
 **Linkedin:** https://www.linkedin.com/in/rolandomorcillo/

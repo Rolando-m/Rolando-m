@@ -1,8 +1,8 @@
-## Resume: Rolando Andrés Morcillo 
+## Hi, I'm Rolando Andrés Morcillo 
 
 # 🔭 I’m currently working on ...
 
-Currently collaborating with multiple teams in PWC software development as a QA automation Engineer. I've a vast experience in Software life cycle, I'm constantly learning new tools and i'm mostly interested in Sysadmin and DevOps positions.
+Collaborating with multiple teams in PWC software development as a QA automation Engineer. I've a vast experience in Software life cycle, I'm constantly learning new tools and i'm mostly interested in Sysadmin and DevOps positions.
 
 Some of the tools that I use on a daily basis:
 
@@ -25,6 +25,8 @@ Specialties: Networks (VPS, LANs), Programming (Node.JS, PHP, PY, Vue JS). Datab
 Advanced English. (Bilingual) 
 Knowledge of AGILE project management, SCRUM used on a daily basis in my current position.
 Various training for AWS, Azure and Google Cloud Services (as you can see detailed below)
+
+## 📝 courses taken and link to each certificate. 
 
 ## AMAZON  <img src="https://www.asesora2.cl/servicios/img/cms/Partners/Amazon-Web-Services-AWS-Logo.png" alt="AWS" width="150"/>
 

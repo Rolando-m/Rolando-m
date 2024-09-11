@@ -2,7 +2,7 @@
 
 # 🔭 I’m currently working on ...
 
-Collaborating with multiple teams in PWC software development as a QA automation Engineer. I've a vast experience in Software life cycle, I'm constantly learning new tools and i'm mostly interested in Sysadmin and DevOps positions.
+Collaborating with multiple teams in PWC software development as a QA automation Engineer. I've a vast experience in Software life cycle, I'm constantly learning new tools and i'm mostly interested in Project Management / Product Owner positions where I can also use my technical skills.
 
 Some of the tools that I use on a daily basis:
 

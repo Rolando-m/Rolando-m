@@ -53,7 +53,7 @@ Various training for AWS, Azure and Google Cloud Services (as you can see detail
 
 [Course Certificate AZ900](./courses_development/microsoft/Certificado_AZ900.pdf)
 
-[Course Certificate DPZ900](./courses_development/microsoft/DP_900.pdf)
+[Course Certificate DP900](./courses_development/microsoft/DP_900.pdf)
 
 [Course Certificate DP300](./courses_development/microsoft/certificado_IT_College_DP300.pdf)
 

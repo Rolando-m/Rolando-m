@@ -55,6 +55,8 @@ Various training for AWS, Azure and Google Cloud Services (as you can see detail
 
 [Course Certificate DPZ900](./courses_development/microsoft/DP_900.pdf)
 
+[Course Certificate DP300](./courses_development/microsoft/certificado_IT_College_DP300.pdf)
+
 [Course Certificate Fundamentals Architecture and Services](./courses_development/microsoft/Microsoft_azure_fundamentals_architecture_and_Services.pdf)
 
 [Course Certificate Azure Fundamentals Cloud Concepts](./courses_development/microsoft/Microsoft_azure_fundamentals_cloud_concepts.pdf)

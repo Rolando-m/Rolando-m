@@ -71,15 +71,15 @@ Various training for AWS, Azure and Google Cloud Services (as you can see detail
 
 [Course Certificate Relational Data](./courses_development/microsoft/Microsoft_Learn_datos_relacionales.pdf)
 
-## JavaScript   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBcBo7Utxx2MCqe-xsnLkoOUkrTqcKl5lgeQSJxV7w1A0QLCagAMf7pMRiKU4eralTKc&usqp=CAU" alt="js" width="150"/>
+## JavaScript   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBcBo7Utxx2MCqe-xsnLkoOUkrTqcKl5lgeQSJxV7w1A0QLCagAMf7pMRiKU4eralTKc&usqp=CAU" alt="js" width="100"/>
 
-[Course Certificate Relational Data](./courses_development/js/diploma-asincronismo-js-old.pdf)
+[Course Certificate Async JS](./courses_development/JS/diploma-asincronismo-js-old.pdf)
 
-[Course Certificate Relational Data](./courses_development/js/diploma-javascript-navegador.pdf)
+[Course Certificate JS engine v8](./courses_development/JS/diploma-javascript-navegador.pdf)
 
-[Course Certificate Relational Data](./courses_development/js/diploma-vuejs-profesional.pdf)
+[Course Certificate VueJS](./courses_development/JS/diploma-vuejs-profesional.pdf)
 
-[Course Certificate Relational Data](./courses_development/js/diploma-nodejs-iot.pdf)
+[Course Certificate NodeJS](./courses_development/JS/diploma-nodejs-iot.pdf)
 
 
 ## 📫How to reach me:

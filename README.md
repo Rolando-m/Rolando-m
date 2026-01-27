@@ -6,6 +6,12 @@ Collaborating with multiple teams in PWC software development as a QA automation
 
 Some of the tools that I use on a daily basis:
 
+<img src="https://cursor.com/marketing-static/_next/image?url=%2Fmarketing-static%2Fdownload%2Fapp-icon-25d-dark.png&w=3840&q=70" alt="Cursor" width="50"/>Cursor.
+
+<img src="https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Untitled_design.original.png" alt="Cursor" width="50"/> A2A protocol
+
+<img src="https://microsoft.github.io/autogen/0.4.5/_static/favicon-512x512.png" alt="Cursor" width="50"/> Autogen 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="DBX" width="50"/>  Databricks for Data Science projects.
 
 <img src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*IOGNRnuhopjfGQzl.png" alt="ADF" width="50"/>  Azure Data Factory for Data silos integrations.
